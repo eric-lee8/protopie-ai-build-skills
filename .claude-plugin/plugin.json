@@ -1,0 +1,9 @@
+{
+  "name": "protopie-ai-build",
+  "description": "Skills for building ProtoPie prototypes with Claude Code and the ProtoPie Studio MCP: write AI-ready PRDs and the prompts that run the build.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eric Lee"
+  },
+  "keywords": ["protopie", "prototyping", "mcp", "prd", "prompts", "figma"]
+}

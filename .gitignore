@@ -1,0 +1,4 @@
+# Packaged .skill files are attached to GitHub Releases, not committed
+dist/
+*.skill
+.DS_Store

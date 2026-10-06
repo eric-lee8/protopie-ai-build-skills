@@ -1,0 +1,15 @@
+{
+  "name": "protopie-ai-build-skills",
+  "description": "Agent skills for building ProtoPie prototypes with Claude Code and the ProtoPie Studio MCP.",
+  "owner": {
+    "name": "Eric Lee"
+  },
+  "plugins": [
+    {
+      "name": "protopie-ai-build",
+      "source": "./",
+      "description": "Skills for building ProtoPie prototypes with Claude Code and the ProtoPie Studio MCP: write AI-ready PRDs and the prompts that run the build.",
+      "version": "1.0.0"
+    }
+  ]
+}
