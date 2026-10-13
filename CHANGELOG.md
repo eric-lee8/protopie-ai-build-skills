@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 — 2026-10-13
+
+- Added an "unofficial, personal library" notice to the README, both skills and the plugin descriptions. This library is not maintained or supported by ProtoPie.
+
 ## 1.0.0 — 2026-10-06
 
 First release.

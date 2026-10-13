@@ -5,6 +5,8 @@ description: Write a PRD that an AI agent (Claude Code with the ProtoPie Studio 
 
 # Writing PRDs for AI-built ProtoPie prototypes
 
+> **Unofficial, personal skill.** Not an official ProtoPie resource, and not maintained or supported by ProtoPie. Part of a personal library: https://github.com/eric-lee8/protopie-ai-build-skills
+
 A PRD for an AI build is not a normal product spec. The agent reads it literally, can only use what the ProtoPie Studio MCP supports, and fills any gap with a guess. A good PRD removes the guesses: exact layer names, exact numbers, intent for every feature, and tests that prove it works.
 
 This skill comes from a real build: an automotive instrument cluster driven by a Logitech G29 wheel through ProtoPie Connect. The finished build had 44 triggers, `inspect_interactions` reported 0 issues, and it took about 15 minutes from one prompt. Examples below use that project; the rules apply to any ProtoPie prototype.

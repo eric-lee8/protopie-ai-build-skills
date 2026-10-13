@@ -5,6 +5,8 @@ description: Write the prompt that hands a PRD to Claude Code so it builds a Pro
 
 # Writing prompts for AI-built ProtoPie prototypes
 
+> **Unofficial, personal skill.** Not an official ProtoPie resource, and not maintained or supported by ProtoPie. Part of a personal library: https://github.com/eric-lee8/protopie-ai-build-skills
+
 The prompt is the contract between the designer and the agent. The PRD says *what* to build; the prompt says *how to run the build*: where to look, what order to work in, when to stop, what never to do, and what to report.
 
 This skill comes from a real build: an automotive instrument cluster driven by a Logitech G29 wheel. The build took one prompt and about 15 minutes, finished with 44 triggers and 0 issues, and passed its hardware tests after a one-formula fix. Pair this skill with **protopie-prd-writer**; the prompt assumes a PRD with numbered sections.

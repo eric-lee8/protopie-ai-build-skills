@@ -1,5 +1,8 @@
 # ProtoPie AI Build Skills
 
+> [!IMPORTANT]
+> **Unofficial, personal library.** This is not an official ProtoPie skills library. It's a personal collection of skills I use in my own prototyping work, shared as-is. It isn't maintained, reviewed or supported by ProtoPie. For official resources and support, visit [protopie.io](https://www.protopie.io/).
+
 Two agent skills for building **ProtoPie** prototypes with **Claude Code** and the **ProtoPie Studio MCP**. Bring your design in from Figma, write a spec, and let the agent build every interaction.
 
 | Skill | What it helps you do |
